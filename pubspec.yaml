@@ -38,6 +38,7 @@ dependencies:
   qr_flutter: ^4.0.0
   # audioplayers: ^0.13.0
   qrscan: ^0.3.3
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
