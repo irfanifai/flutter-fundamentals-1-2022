@@ -28,6 +28,8 @@ class _MyAppState extends State<MyApp> {
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               TextField(
+                // maxLength: 5,
+                // maxLines: 2,
                 onChanged: (value) {
                   setState(() {});
                 },
